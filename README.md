@@ -13,5 +13,5 @@ To ssh into the instance you should run the awslogin.sh script with the instance
 
 ## Required modifications
 -You will need to change the key-name in the launch script to match your key pair.  
--You will also need to change the key file in the login script. 
+-You will also need to change the key file in the login script.  
 -You may have to change the security-groups name to match one that you have in your EC2 resources. You can get to them from the EC2 dashboard. 
